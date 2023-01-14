@@ -1,0 +1,127 @@
+[alternatives {
+  transcript: "Hello, my name is Chris Mack on, Welcome to my YouTube channel. Today, in this particular video will be discussing about a very important library in Spotify playlist. Now 5, it\'s pretty much used library that is because we sent this and I found out a lot of images of this, most of the Python data science. Libraries just by installing the spy for the time. Is it in your environment? So it is by Celine sideways for that. They are always there when you need them, if you don\'t use it like it one bit, but go and open an account of all the public library install."
+  confidence: 0.962979257106781
+}
+result_end_time {
+  seconds: 40
+  nanos: 490000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: "And you have to write as 5 Forest."
+  confidence: 0.6478151082992554
+}
+result_end_time {
+  seconds: 44
+  nanos: 170000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: " Want to do this elegant, automatically install little something and we\'re on 30 seconds for you to install. I want it installed. Now currently have installed in my laptop so you can see that requirements and this is the local"
+  confidence: 0.9158912897109985
+}
+result_end_time {
+  seconds: 58
+  nanos: 970000000
+}
+language_code: "en-us"
+][alternatives {
+  transcript: "Garden Store, quickly, go and copy and paste one. You are a meeting from CSV file with the help of PSV is an envelope function of pandas, right? Oh yeah, I just used a last name, like. I don\'t know if I want a 50 and ideas. And if I see this, you\'ll be able to see the betta know, how do we understand how important and that you are a Titan."
+  confidence: 0.9193883538246155
+}
+result_end_time {
+  seconds: 58
+  nanos: 290000000
+}
+language_code: "en-us"
+][alternatives {
+  transcript: "Are you can see over here under. The god important fairies will let me create some list like LSG 13215 Lourdes with the help of a microphone. So I talked about you a lot and I don\'t like Rihanna and I\'m going to say."
+  confidence: 0.8532962799072266
+}
+result_end_time {
+  seconds: 44
+  nanos: 440000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: "I want to say, x-axis."
+  confidence: 0.7865179181098938
+}
+result_end_time {
+  seconds: 46
+  nanos: 990000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: " and then I\'m going to say and then I\'m also going to see y axis,"
+  confidence: 0.9300029873847961
+}
+result_end_time {
+  seconds: 55
+  nanos: 800000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: " the Doctor Who disappeared."
+  confidence: 0.41285333037376404
+}
+result_end_time {
+  seconds: 58
+  nanos: 970000000
+}
+language_code: "en-us"
+][alternatives {
+  transcript: "I hear you can see that once once I get through this particular line of code automatically the McFarland library in light active on the school Imports. Now you\'ll be able to see her number so I can write in p."
+  confidence: 0.9090430736541748
+}
+result_end_time {
+  seconds: 33
+  nanos: 270000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: "I\'m here, automatically are able to get it. Just like, PD not read on this pussy is me. And here I have most of these bands"
+  confidence: 0.9032660722732544
+}
+result_end_time {
+  seconds: 52
+  nanos: 270000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: " Okay, so once I get situated, now siwan has one in bed function for the discipline."
+  confidence: 0.8745367527008057
+}
+result_end_time {
+  seconds: 58
+  nanos: 960000000
+}
+language_code: "en-us"
+][alternatives {
+  transcript: "And if I give DF off, let me just show you what are variables are here."
+  confidence: 0.8723505735397339
+}
+result_end_time {
+  seconds: 7
+  nanos: 640000000
+}
+language_code: "en-us"
+, alternatives {
+  transcript: " You can see that I have videos details like this. Kind of column that the present one side security. So you\'ll be able to see a wonderful graph, right? Over to see the library has got important so you can see, bone is also getting in with you. Try to use this video. Please describe the channel and"
+  confidence: 0.9150503873825073
+}
+result_end_time {
+  seconds: 58
+  nanos: 950000000
+}
+language_code: "en-us"
+][alternatives {
+  transcript: "How do you subscribe to share with all your friends were able to find Stan open Expedia have a 3D rectangle."
+  confidence: 0.6079991459846497
+}
+result_end_time {
+  seconds: 5
+  nanos: 820000000
+}
+language_code: "en-us"
+]
